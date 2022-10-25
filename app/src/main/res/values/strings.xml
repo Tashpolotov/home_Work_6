@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">home_Work_6</string>
+    <string name="sing_up">Sing up!</string>
+    <string name="name">name</string>
+    <string name="sing">Sing</string>
+    <string name="password">password</string>
+    <string name="email">Email</string>
+    <string name="i_would_like_to_receive_your_newsletter_and_other_promotional_information">i would like to receive your newsletter and other promotional information</string>
+    <string name="forgot_your_password">Forgot your password?</string>
+    <string name="x">X</string>
+    <string name="login">Login</string>
+    <string name="show">Show</string>
+</resources>
